@@ -26,3 +26,4 @@ ans = 0
 for sum42 in multiarray:
     ans += sum42 
 print('Ответ  :','\n',ans)   #871853874
+f.close
